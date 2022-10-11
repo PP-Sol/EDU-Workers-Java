@@ -19,7 +19,7 @@ public class MainClass {
     {
          int i, j, k, ranPosX, ranPosY;
          boolean nb0, nb1, nb2, nb3, nb4, nb5, nb6, nb7, posObs = false;
-
+         boolean neco1 = false;
         
         for(i=0;i<(globalVar.SIZE);i++) //inicizalizace nakladu
         {
