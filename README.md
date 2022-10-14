@@ -1,3 +1,2 @@
 # EDU-Workers-Java
- CTU Semestral Project in Java
-sdsd
+ CTU Semestral Project in Java to show OOP
